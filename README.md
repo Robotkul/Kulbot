@@ -1,4 +1,4 @@
-# startbit
+# Kulbot
 
 Blocks for Kulbot education
 ## License
