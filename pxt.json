@@ -1,6 +1,6 @@
 {
     "name": "Kulbot",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Blocks for Kulbot Micro:bit",
     "license": "MIT",
     "dependencies": {
