@@ -1,0 +1,19 @@
+{
+    "name": "Kulbot",
+    "version": "0.0.0",
+    "description": "Blocks for Kulbot Micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "StartbitRGBLight.ts",
+        "sendbuffer.asm"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
